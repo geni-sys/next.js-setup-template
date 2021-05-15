@@ -32,7 +32,7 @@ export default class MyDocument extends Document {
     return (
       <Html lang="pt">
         <Head>
-          <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+          <meta httpEquiv="Content-Type" content="text/html;charset=UTF-8" />
 
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;1,100;1,200&family=Inter:wght@100;200;300;400;500&family=Roboto:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet" />
