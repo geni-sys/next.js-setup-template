@@ -2,21 +2,23 @@ import React from "react"
 import Head from "next/head"
 
 import VercelLogo from '../assets/vercel.svg'
+import { Container } from "../styles/pages/home"
 
 const Home: React.FC = () => {
   return (
-    <div>
+    <Container>
       <Head>
         <title>Homepage</title>
       </Head>
 
       <VercelLogo />
 
-      <main>
-        <h1>Hello world!</h1>
-        <h5>eliasallex</h5>
-      </main>
-    </div>
+      <h1>Hello world!</h1>
+      <p>
+        A reactJS, Next.JS structure made by
+        <pre>@eliasallex</pre>
+      </p>
+    </Container>
   )
 }
 
