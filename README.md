@@ -15,4 +15,12 @@
 
 ## contributions
 
-Pull-Requests are always welcome.
+Pull Requests are always welcome.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Author
+
+[elias alexandre](https://github.com/eliasallex)
